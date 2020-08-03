@@ -43,9 +43,9 @@ Please remember to always check the source and not just run some random code on 
 
 ## Installation
 
-Just run this command as root:
+Just run the following commands as root:
 
-`curl -fsSL https://raw.githubusercontent.com/crhenr/openbsd-selfhosted/master/setup.sh | sh`
+`chmod +x setup.sh && ./setup.sh`
 
 You will be prompt for some basic information required for the configuration files.
 
